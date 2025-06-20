@@ -1,0 +1,45 @@
+.todo-app{
+  background: lightblue;
+  display: felx;
+  width: 500px;
+  padding: 50px;
+border-radius: 10px;
+}
+
+.heading{
+  color: black;
+  font-size: 3rem;
+  font-weight: bold;
+
+
+}
+
+.input{
+  width: 50%;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+.list-class {
+  color: black;
+  font-weight: bold;
+  font-size: 2rem;
+  margin: 20px;
+}
+
+.btn-icon{
+  font-size: 10px;
+  margin-left: 20px;
+  color: rgb(255, 255, 255);
+
+}
+
+.btn-icon:hover{
+  background-color: green;
+  color: black;
+}
+
+li {
+  list-style-type: none;
+}
